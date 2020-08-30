@@ -1,4 +1,16 @@
 
 body {
-    background-color: #ffff77
+    
+    background-color: #336699
+}
+
+.nav-link {
+    color: green;
+    font-weight: bold
+}
+
+.img-style {
+    border: 1px solid black;
+    border-radius: 10px;
+
 }
