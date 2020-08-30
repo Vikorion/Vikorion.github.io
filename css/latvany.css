@@ -1,6 +1,6 @@
 
 body {
-    
+
     background-color: #336699
 }
 
@@ -12,5 +12,22 @@ body {
 .img-style {
     border: 1px solid black;
     border-radius: 10px;
+    box-shadow: 1px 2px 2px 1px grey;
 
+}
+
+h1 {
+    margin-left: 15px;
+}
+
+h2 {
+    margin-left: 15px;
+}
+
+ul {
+        margin-left: 25px;
+}
+
+ol  {
+    margin-left: 25px;
 }
